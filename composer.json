@@ -1,0 +1,12 @@
+{
+    "name": "kim/testgit",
+    "description": "testing",
+    "authors": [
+        {
+            "name": "kim",
+            "email": "kim@next-insurtech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
